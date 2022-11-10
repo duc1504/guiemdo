@@ -5,7 +5,7 @@ const textConfig = {
   text4: "Nếu em khong trả lời mà thoát ra tức là đồng ý rùi đó nha :v",
   text5: "Khồngg",
   text6: "Đồng ý!!",
-  text7: "Mai là kỷ niệm 1 năm mình yêu nhau rùi đó em nhớ khong ?",
+  text7: "Hôm nay là kỷ niệm 1 năm mình yêu nhau rùi đó em nhớ hong ?",
   text8: "Gửi",
   text9: "Có chứ",
   text10: "Anh yêu bé iu của anh nhiều lắmmm",
