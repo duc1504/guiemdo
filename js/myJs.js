@@ -2,9 +2,9 @@ const textConfig = {
   text1: "Hí bé iuu",
   text2: "Anh có điều này muốn hỏi em nhớ phải trả lời thật lòng nhaaa <3",
   text3: "Cho anh cơ hội được yêu em một lần nữa nhaaaa <3",
-  text4: "Nếu em trả lời mà thoát ra tức là đồng ý rùi đó nha :v",
+  text4: "Nếu em khong trả lời mà thoát ra tức là đồng ý rùi đó nha :v",
   text5: "Khồngg",
-  text6: "Đồng ý",
+  text6: "Đồng ý!!",
   text7: "Mai là kỷ niệm 1 năm mình yêu nhau rùi đó em nhớ khong ?",
   text8: "Gửi",
   text9: "Có chứ",
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "https://m.me/duc1504";
           },
         });
       }
